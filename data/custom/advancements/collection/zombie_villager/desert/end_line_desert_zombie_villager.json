@@ -1,0 +1,8 @@
+{
+   "criteria":{
+      "end":{
+         "trigger":"minecraft:location"
+      }
+   },
+    "parent": "custom:collection/zombie_villager/desert/15_weaponsmith_desert_zombie_villager"
+}
