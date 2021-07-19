@@ -27,31 +27,42 @@
       ],
       "conditions": [
         {
-          "condition": "killed_by_player"
-        },
-        {
-          "condition": "inverted",
-          "term": {
-            "condition": "entity_properties",
-            "predicate": {
-              "nbt": "{CustomName:\"{\\\"text\\\":\\\"mrfexfull002\\\"}\"}"
+          "condition": "minecraft:alternative",
+          "terms": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:alternative",
+                "terms": [
+                  {
+                    "condition": "minecraft:inverted",
+                    "term": {
+                      "condition": "minecraft:random_chance_with_looting",
+                      "chance": 0.02,
+                      "looting_multiplier": 0.01
+                    }
+                  },
+                  {
+                    "condition": "minecraft:inverted",
+                    "term": {
+                      "condition": "minecraft:killed_by_player",
+                      "inverse": false
+                    }
+                  }
+                ]
+              }
             },
-            "entity": "this"
-          }
-        },
-        {
-          "condition": "random_chance_with_looting",
-          "chance": 0.02,
-          "looting_multiplier": 0.01
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "name": "minecraft:entities/ee/mrfexfull002"
+            {
+              "condition": "minecraft:damage_source_properties",
+              "predicate": {
+                "is_explosion": true,
+                "source_entity": {
+                  "type": "minecraft:creeper",
+                  "nbt": "{powered:1b}"
+                }
+              }
+            }
+          ]
         }
       ]
     }
