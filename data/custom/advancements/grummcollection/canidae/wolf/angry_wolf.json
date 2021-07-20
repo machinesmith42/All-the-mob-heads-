@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/canidae/wolf/wolf",
+	"parent": "custom:grummcollection/canidae/wolf/wolf",
 	"criteria": {
 		"angry_wolf": {
 			"trigger": "minecraft:inventory_changed",

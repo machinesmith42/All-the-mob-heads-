@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/horse/mule",
+	"parent": "custom:grummcollection/horse/mule",
 	"criteria": {
 		"white_horse": {
 			"trigger": "minecraft:inventory_changed",

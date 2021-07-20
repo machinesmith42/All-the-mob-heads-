@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:snow_block"
 		},
-		"title": "Snow Villager",
-		"description": "Villager Collection",
+		"title": "Snow Villagers",
+		"description": "Snow Villager Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

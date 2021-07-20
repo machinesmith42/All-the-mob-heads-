@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/canidae/dog/light_blue_collared_dog",
+	"parent": "custom:grummcollection/canidae/dog/light_blue_collared_dog",
 	"criteria": {
 		"pink_collared_dog": {
 			"trigger": "minecraft:inventory_changed",

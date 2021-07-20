@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:netherite_sword"
         },
-        "title": "Head's collection",
+        "title": "Head collection",
         "description": "Collect Them All",
         "background": "minecraft:textures/block/deepslate_tiles.png",
         "show_toast": true,

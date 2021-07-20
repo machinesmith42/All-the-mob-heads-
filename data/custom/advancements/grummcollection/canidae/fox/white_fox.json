@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/canidae/fox/fox",
+	"parent": "custom:grummcollection/canidae/fox/fox",
 	"criteria": {
 		"white_fox": {
 			"trigger": "minecraft:inventory_changed",

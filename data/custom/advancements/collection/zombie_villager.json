@@ -4,7 +4,7 @@
 			"item": "minecraft:rotten_flesh"
 		},
 		"title": "Zombie Villager",
-		"description": "Zombie Villager Collection",
+		"description": "Zombie Villager Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

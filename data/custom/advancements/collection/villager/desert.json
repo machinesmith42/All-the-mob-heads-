@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:sand"
 		},
-		"title": "Desert Villager",
-		"description": "Villager Collection",
+		"title": "Desert Villagers",
+		"description": "Desert Villager Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

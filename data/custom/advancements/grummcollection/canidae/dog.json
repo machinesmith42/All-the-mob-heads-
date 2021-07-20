@@ -8,7 +8,7 @@
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:collection/canidae",
+	"parent": "custom:grummcollection/canidae",
 	"criteria": {
 		"black_collared_dog": {
 			"trigger": "minecraft:inventory_changed",

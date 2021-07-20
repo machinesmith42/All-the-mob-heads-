@@ -4,7 +4,7 @@
 			"item": "minecraft:oxeye_daisy"
 		},
 		"title": "Passive",
-		"description": "Passive Collection Head",
+		"description": "Passive Mobs Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:dirt_path"
 		},
-		"title": "Savanna Zombie Villager",
-		"description": "Zombie Villager Collection",
+		"title": "Savanna Zombie Villagers",
+		"description": "Savanna Zombie Villager Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

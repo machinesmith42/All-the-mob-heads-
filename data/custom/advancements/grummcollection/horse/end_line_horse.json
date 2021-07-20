@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/horse/zombie_horse"
+    "parent": "custom:grummcollection/horse/zombie_horse"
 }

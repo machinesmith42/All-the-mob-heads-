@@ -4,7 +4,7 @@
 			"item": "minecraft:lily_pad"
 		},
 		"title": "Swamp Zombie Villager",
-		"description": "Zombie Villager Collection",
+		"description": "Swamp Zombie Villager Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

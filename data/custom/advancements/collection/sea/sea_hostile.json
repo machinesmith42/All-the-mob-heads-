@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:prismarine_shard"
 		},
-		"title": "Sea Hostile",
-		"description": "Hostile Collection Head",
+		"title": "Hostile Sea Mobs",
+		"description": "Sea Hostile Mobs Head Collection ",
         "announce_to_chat": true,
         "frame": "goal"
 	},

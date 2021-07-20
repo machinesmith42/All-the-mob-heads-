@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/cat",
+	"parent": "custom:grummcollection/cat",
 	"criteria": {
 		"tabby_cat": {
 			"trigger": "minecraft:inventory_changed",

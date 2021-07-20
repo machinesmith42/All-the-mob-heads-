@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/horse/donkey",
+	"parent": "custom:grummcollection/horse/donkey",
 	"criteria": {
 		"mule": {
 			"trigger": "minecraft:inventory_changed",

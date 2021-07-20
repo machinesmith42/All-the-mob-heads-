@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:honeycomb"
 		},
-		"title": "Bee",
-		"description": "Bee Mobs Head",
+		"title": "Bees",
+		"description": "Bee Collection Head",
         "announce_to_chat": true,
         "frame": "goal"
 	},

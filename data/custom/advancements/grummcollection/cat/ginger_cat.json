@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/cat/tuxedo_cat",
+	"parent": "custom:grummcollection/cat/tuxedo_cat",
 	"criteria": {
 		"ginger_cat": {
 			"trigger": "minecraft:inventory_changed",

@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/bee/pollinated_angry_bee"
+    "parent": "custom:grummcollection/bee/pollinated_angry_bee"
 }

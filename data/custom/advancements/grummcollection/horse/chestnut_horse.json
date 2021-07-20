@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/horse/brown_horse",
+	"parent": "custom:grummcollection/horse/brown_horse",
 	"criteria": {
 		"chestnut_horse": {
 			"trigger": "minecraft:inventory_changed",

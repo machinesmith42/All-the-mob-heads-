@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/bee",
+	"parent": "custom:grummcollection/bee",
 	"criteria": {
 		"bee": {
 			"trigger": "minecraft:inventory_changed",

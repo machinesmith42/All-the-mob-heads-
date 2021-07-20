@@ -8,7 +8,7 @@
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:collection/root",
+	"parent": "custom:grummcollection/root",
 	"criteria": {
 		"enderman": {
 			"trigger": "minecraft:inventory_changed",

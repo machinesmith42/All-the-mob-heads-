@@ -4,7 +4,7 @@
 			"item": "minecraft:nether_star"
 		},
 		"title": "Wither Boss",
-		"description": "Wither Boss Head",
+		"description": "Wither Boss Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

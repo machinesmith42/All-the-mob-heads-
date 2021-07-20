@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/cat/jellie_cat",
+	"parent": "custom:grummcollection/cat/jellie_cat",
 	"criteria": {
 		"black_cat": {
 			"trigger": "minecraft:inventory_changed",

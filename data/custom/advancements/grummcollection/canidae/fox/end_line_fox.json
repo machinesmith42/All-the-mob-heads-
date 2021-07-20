@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/canidae/fox/white_fox"
+    "parent": "custom:grummcollection/canidae/fox/white_fox"
 }

@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/horse/skeleton_horse",
+	"parent": "custom:grummcollection/horse/skeleton_horse",
 	"criteria": {
 		"zombie_horse": {
 			"trigger": "minecraft:inventory_changed",

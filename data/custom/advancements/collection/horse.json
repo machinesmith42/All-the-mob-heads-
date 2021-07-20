@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:saddle"
 		},
-		"title": "Horse",
-		"description": "Horse Collection Head",
+		"title": "Horses",
+		"description": "Horse Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

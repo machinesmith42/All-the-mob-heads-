@@ -4,7 +4,7 @@
 			"item": "minecraft:diamond_sword"
 		},
 		"title": "Hostile",
-		"description": "Hostile Collection",
+		"description": "Hostile Mobs Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/canidae/dog",
+	"parent": "custom:grummcollection/canidae/dog",
 	"criteria": {
 		"red_collared_dog": {
 			"trigger": "minecraft:inventory_changed",

@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/canidae/dog/yellow_collared_dog",
+	"parent": "custom:grummcollection/canidae/dog/yellow_collared_dog",
 	"criteria": {
 		"lime_collared_dog": {
 			"trigger": "minecraft:inventory_changed",

@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/canidae/dog/white_collared_dog"
+    "parent": "custom:grummcollection/canidae/dog/white_collared_dog"
 }

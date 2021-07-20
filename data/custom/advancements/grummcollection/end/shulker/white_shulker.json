@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/end/shulker/light_gray_shulker",
+	"parent": "custom:grummcollection/end/shulker/light_gray_shulker",
 	"criteria": {
 		"white_shulker": {
 			"trigger": "minecraft:inventory_changed",
