@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/zombie_villager/savanna/15_weaponsmith_savanna_zombie_villager"
+    "parent": "custom:grummcollection/zombie_villager/savanna/15_weaponsmith_savanna_zombie_villager"
 }

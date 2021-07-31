@@ -8,7 +8,7 @@
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:collection/zombie_villager",
+	"parent": "custom:grummcollection/zombie_villager",
 	"criteria": {
 		"01_armorer_snow_zombie_villager": {
 			"trigger": "minecraft:inventory_changed",

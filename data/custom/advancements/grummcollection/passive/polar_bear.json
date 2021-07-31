@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/passive/wandering_trader",
+	"parent": "custom:grummcollection/passive/wandering_trader",
 	"criteria": {
 		"polar_bear": {
 			"trigger": "minecraft:inventory_changed",

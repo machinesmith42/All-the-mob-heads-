@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/llama/white_llama",
+	"parent": "custom:grummcollection/llama/white_llama",
 	"criteria": {
 		"trader_creamy_llama": {
 			"trigger": "minecraft:inventory_changed",

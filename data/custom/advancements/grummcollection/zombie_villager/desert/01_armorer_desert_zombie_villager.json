@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/zombie_villager/desert",
+	"parent": "custom:grummcollection/zombie_villager/desert",
 	"criteria": {
 		"01_armorer_desert_zombie_villager": {
 			"trigger": "minecraft:inventory_changed",

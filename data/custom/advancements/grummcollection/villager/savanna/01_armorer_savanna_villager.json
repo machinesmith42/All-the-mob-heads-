@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/savanna",
+	"parent": "custom:grummcollection/villager/savanna",
 	"criteria": {
 		"01_armorer_savanna_villager": {
 			"trigger": "minecraft:inventory_changed",

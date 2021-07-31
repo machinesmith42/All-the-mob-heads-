@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/taiga/05_farmer_taiga_villager",
+	"parent": "custom:grummcollection/villager/taiga/05_farmer_taiga_villager",
 	"criteria": {
 		"06_fisherman_taiga_villager": {
 			"trigger": "minecraft:inventory_changed",

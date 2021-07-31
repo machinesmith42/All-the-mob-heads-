@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/rabbit/salt_and_pepper_rabbit",
+	"parent": "custom:grummcollection/rabbit/salt_and_pepper_rabbit",
 	"criteria": {
 		"gold_rabbit": {
 			"trigger": "minecraft:inventory_changed",

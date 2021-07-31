@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/sheep/cyan_sheep",
+	"parent": "custom:grummcollection/sheep/cyan_sheep",
 	"criteria": {
 		"light_blue_sheep": {
 			"trigger": "minecraft:inventory_changed",

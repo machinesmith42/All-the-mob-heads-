@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/jungle/08_leatherworker_jungle_villager",
+	"parent": "custom:grummcollection/villager/jungle/08_leatherworker_jungle_villager",
 	"criteria": {
 		"09_librarian_jungle_villager": {
 			"trigger": "minecraft:inventory_changed",

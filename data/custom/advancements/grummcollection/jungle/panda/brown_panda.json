@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/jungle/panda/worried_panda",
+	"parent": "custom:grummcollection/jungle/panda/worried_panda",
 	"criteria": {
 		"brown_panda": {
 			"trigger": "minecraft:inventory_changed",

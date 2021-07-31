@@ -1,8 +1,0 @@
-{
-   "criteria":{
-      "end":{
-         "trigger":"minecraft:location"
-      }
-   },
-    "parent": "custom:collection/hostile/illager/illusioner"
-}

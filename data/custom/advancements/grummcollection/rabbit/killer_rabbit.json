@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/rabbit/white_rabbit",
+	"parent": "custom:grummcollection/rabbit/white_rabbit",
 	"criteria": {
 		"killer_rabbit": {
 			"trigger": "minecraft:inventory_changed",

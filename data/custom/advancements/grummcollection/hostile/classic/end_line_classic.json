@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/hostile/classic/phantom"
+    "parent": "custom:grummcollection/hostile/classic/phantom"
 }

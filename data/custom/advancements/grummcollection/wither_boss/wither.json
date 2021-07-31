@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/wither_boss",
+	"parent": "custom:grummcollection/wither_boss",
 	"criteria": {
 		"wither": {
 			"trigger": "minecraft:inventory_changed",

@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/passive/snowman",
+	"parent": "custom:grummcollection/passive/snowman",
 	"criteria": {
 		"goat": {
 			"trigger": "minecraft:inventory_changed",

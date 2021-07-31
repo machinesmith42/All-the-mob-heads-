@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/llama/trader_gray_llama",
+	"parent": "custom:grummcollection/llama/trader_gray_llama",
 	"criteria": {
 		"trader_white_llama": {
 			"trigger": "minecraft:inventory_changed",

@@ -8,7 +8,7 @@
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:collection/villager",
+	"parent": "custom:grummcollection/villager",
 	"criteria": {
 		"01_armorer_jungle_villager": {
 			"trigger": "minecraft:inventory_changed",

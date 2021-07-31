@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/zombie_villager/jungle/09_librarian_jungle_zombie_villager",
+	"parent": "custom:grummcollection/zombie_villager/jungle/09_librarian_jungle_zombie_villager",
 	"criteria": {
 		"10_mason_jungle_zombie_villager": {
 			"trigger": "minecraft:inventory_changed",

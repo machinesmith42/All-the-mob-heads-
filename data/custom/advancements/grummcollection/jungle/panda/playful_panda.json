@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/jungle/panda/lazy_panda",
+	"parent": "custom:grummcollection/jungle/panda/lazy_panda",
 	"criteria": {
 		"playful_panda": {
 			"trigger": "minecraft:inventory_changed",

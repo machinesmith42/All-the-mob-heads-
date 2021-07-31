@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/swamp/04_cleric_swamp_villager",
+	"parent": "custom:grummcollection/villager/swamp/04_cleric_swamp_villager",
 	"criteria": {
 		"05_farmer_swamp_villager": {
 			"trigger": "minecraft:inventory_changed",

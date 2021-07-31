@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/jungle/parrot/blue_parrot",
+	"parent": "custom:grummcollection/jungle/parrot/blue_parrot",
 	"criteria": {
 		"cyan_parrot": {
 			"trigger": "minecraft:inventory_changed",

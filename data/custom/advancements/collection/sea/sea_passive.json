@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:kelp"
 		},
-		"title": "Sea Passive Mobs",
-		"description": "Sea Passive Mobs Head Collection",
+		"title": "Passive Sea Mobs",
+		"description": "Passive Sea Mobs Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

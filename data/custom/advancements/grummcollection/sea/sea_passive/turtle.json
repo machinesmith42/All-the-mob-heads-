@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/sea/sea_passive/dolphin",
+	"parent": "custom:grummcollection/sea/sea_passive/dolphin",
 	"criteria": {
 		"turtle": {
 			"trigger": "minecraft:inventory_changed",

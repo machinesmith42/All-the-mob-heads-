@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/passive/cow",
+	"parent": "custom:grummcollection/passive/cow",
 	"criteria": {
 		"brown_mooshroom": {
 			"trigger": "minecraft:inventory_changed",

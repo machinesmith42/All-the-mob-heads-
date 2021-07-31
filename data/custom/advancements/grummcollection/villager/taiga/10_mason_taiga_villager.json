@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/taiga/09_librarian_taiga_villager",
+	"parent": "custom:grummcollection/villager/taiga/09_librarian_taiga_villager",
 	"criteria": {
 		"10_mason_taiga_villager": {
 			"trigger": "minecraft:inventory_changed",

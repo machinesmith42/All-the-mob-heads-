@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/end/shulker/white_shulker"
+    "parent": "custom:grummcollection/end/shulker/white_shulker"
 }

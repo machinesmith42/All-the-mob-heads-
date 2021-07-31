@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/jungle/13_shepherd_jungle_villager",
+	"parent": "custom:grummcollection/villager/jungle/13_shepherd_jungle_villager",
 	"criteria": {
 		"14_toolsmith_jungle_villager": {
 			"trigger": "minecraft:inventory_changed",

@@ -3,12 +3,12 @@
 		"icon": {
 			"item": "minecraft:axolotl_bucket"
 		},
-		"title": "Axolotl",
+		"title": "Axolotls",
 		"description": "Axolotl Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:collection/sea",
+	"parent": "custom:grummcollection/sea",
 	"criteria": {
 		"axolotl_lucy": {
 			"trigger": "minecraft:inventory_changed",

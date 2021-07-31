@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/sheep/brown_sheep",
+	"parent": "custom:grummcollection/sheep/brown_sheep",
 	"criteria": {
 		"black_sheep": {
 			"trigger": "minecraft:inventory_changed",

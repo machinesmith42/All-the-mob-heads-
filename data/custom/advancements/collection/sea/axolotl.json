@@ -3,7 +3,7 @@
 		"icon": {
 			"item": "minecraft:axolotl_bucket"
 		},
-		"title": "Axolotl",
+		"title": "Axolotls",
 		"description": "Axolotl Head Collection",
         "announce_to_chat": true,
         "frame": "goal"

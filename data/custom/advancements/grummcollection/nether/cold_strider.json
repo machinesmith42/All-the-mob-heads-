@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/nether/strider",
+	"parent": "custom:grummcollection/nether/strider",
 	"criteria": {
 		"cold_strider": {
 			"trigger": "minecraft:inventory_changed",

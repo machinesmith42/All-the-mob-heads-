@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/swamp/01_armorer_swamp_villager",
+	"parent": "custom:grummcollection/villager/swamp/01_armorer_swamp_villager",
 	"criteria": {
 		"02_butcher_swamp_villager": {
 			"trigger": "minecraft:inventory_changed",

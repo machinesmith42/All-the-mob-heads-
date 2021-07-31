@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/villager/desert/15_weaponsmith_desert_villager"
+    "parent": "custom:grummcollection/villager/desert/15_weaponsmith_desert_villager"
 }

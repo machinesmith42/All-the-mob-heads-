@@ -3,7 +3,7 @@
 		"icon": {
 			"item": "minecraft:diamond_sword"
 		},
-		"title": "Hostile",
+		"title": "Hostile Mobs",
 		"description": "Hostile Mobs Head Collection",
         "announce_to_chat": true,
         "frame": "goal"

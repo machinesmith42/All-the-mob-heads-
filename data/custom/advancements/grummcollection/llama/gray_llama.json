@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/llama/brown_llama",
+	"parent": "custom:grummcollection/llama/brown_llama",
 	"criteria": {
 		"gray_llama": {
 			"trigger": "minecraft:inventory_changed",

@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/hostile/illager/vex",
+	"parent": "custom:grummcollection/hostile/illager/vex",
 	"criteria": {
 		"charging_vex": {
 			"trigger": "minecraft:inventory_changed",

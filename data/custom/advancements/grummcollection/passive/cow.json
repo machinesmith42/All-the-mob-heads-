@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/passive",
+	"parent": "custom:grummcollection/passive",
 	"criteria": {
 		"cow": {
 			"trigger": "minecraft:inventory_changed",

@@ -3,12 +3,12 @@
 		"icon": {
 			"item": "minecraft:diamond_sword"
 		},
-		"title": "Hostile",
+		"title": "Hostile Mobs",
 		"description": "Hostile Mobs Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:collection/root",
+	"parent": "custom:grummcollection/root",
 	"criteria": {
 		"cave_spider": {
 			"trigger": "minecraft:inventory_changed",

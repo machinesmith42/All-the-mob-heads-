@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/sheep/yellow_sheep",
+	"parent": "custom:grummcollection/sheep/yellow_sheep",
 	"criteria": {
 		"lime_sheep": {
 			"trigger": "minecraft:inventory_changed",

@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/villager/snow/15_weaponsmith_snow_villager"
+    "parent": "custom:grummcollection/villager/snow/15_weaponsmith_snow_villager"
 }

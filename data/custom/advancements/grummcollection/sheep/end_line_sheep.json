@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/sheep/jeb_sheep"
+    "parent": "custom:grummcollection/sheep/white_sheep"
 }

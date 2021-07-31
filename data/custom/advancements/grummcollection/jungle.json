@@ -3,12 +3,12 @@
 		"icon": {
 			"item": "minecraft:vine"
 		},
-		"title": "Jungle",
+		"title": "Jungle Mobs",
 		"description": "Jungle Mobs Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:collection/root",
+	"parent": "custom:grummcollection/root",
 	"criteria": {
 		"blue_parrot": {
 			"trigger": "minecraft:inventory_changed",

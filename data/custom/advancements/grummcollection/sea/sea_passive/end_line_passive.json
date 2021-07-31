@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/sea/sea_passive/glow_squid"
+    "parent": "custom:grummcollection/sea/sea_passive/glow_squid"
 }

@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/sea/sea_hostile/elder_guardian"
+    "parent": "custom:grummcollection/sea/sea_hostile/elder_guardian"
 }

@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/swamp/13_shepherd_swamp_villager",
+	"parent": "custom:grummcollection/villager/swamp/13_shepherd_swamp_villager",
 	"criteria": {
 		"14_toolsmith_swamp_villager": {
 			"trigger": "minecraft:inventory_changed",

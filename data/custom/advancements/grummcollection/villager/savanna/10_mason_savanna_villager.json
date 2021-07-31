@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/savanna/09_librarian_savanna_villager",
+	"parent": "custom:grummcollection/villager/savanna/09_librarian_savanna_villager",
 	"criteria": {
 		"10_mason_savanna_villager": {
 			"trigger": "minecraft:inventory_changed",

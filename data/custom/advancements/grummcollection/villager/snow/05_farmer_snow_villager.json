@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/snow/04_cleric_snow_villager",
+	"parent": "custom:grummcollection/villager/snow/04_cleric_snow_villager",
 	"criteria": {
 		"05_farmer_snow_villager": {
 			"trigger": "minecraft:inventory_changed",

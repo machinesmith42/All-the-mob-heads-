@@ -3,7 +3,7 @@
 		"icon": {
 			"item": "minecraft:vine"
 		},
-		"title": "Jungle",
+		"title": "Jungle Mobs",
 		"description": "Jungle Mobs Head Collection",
         "announce_to_chat": true,
         "frame": "goal"

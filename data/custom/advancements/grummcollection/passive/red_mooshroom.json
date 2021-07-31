@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/passive/brown_mooshroom",
+	"parent": "custom:grummcollection/passive/brown_mooshroom",
 	"criteria": {
 		"red_mooshroom": {
 			"trigger": "minecraft:inventory_changed",

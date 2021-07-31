@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/jungle/panda/brown_panda"
+    "parent": "custom:grummcollection/jungle/panda/brown_panda"
 }

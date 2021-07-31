@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/passive/chicken",
+	"parent": "custom:grummcollection/passive/chicken",
 	"criteria": {
 		"pig": {
 			"trigger": "minecraft:inventory_changed",

@@ -3,12 +3,12 @@
 		"icon": {
 			"item": "minecraft:oxeye_daisy"
 		},
-		"title": "Passive",
+		"title": "Passive Mobs",
 		"description": "Passive Mobs Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:collection/root",
+	"parent": "custom:grummcollection/root",
 	"criteria": {
 		"bat": {
 			"trigger": "minecraft:inventory_changed",

@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/nether/zombified_piglin",
+	"parent": "custom:grummcollection/nether/zombified_piglin",
 	"criteria": {
 		"piglin": {
 			"trigger": "minecraft:inventory_changed",

@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/passive/polar_bear",
+	"parent": "custom:grummcollection/passive/polar_bear",
 	"criteria": {
 		"iron_golem": {
 			"trigger": "minecraft:inventory_changed",

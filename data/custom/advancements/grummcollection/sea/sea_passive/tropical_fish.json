@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/sea/sea_passive/salmon",
+	"parent": "custom:grummcollection/sea/sea_passive/salmon",
 	"criteria": {
 		"tropical_fish": {
 			"trigger": "minecraft:inventory_changed",

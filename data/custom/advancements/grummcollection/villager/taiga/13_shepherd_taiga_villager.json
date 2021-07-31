@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/taiga/12_taiga_villager",
+	"parent": "custom:grummcollection/villager/taiga/12_taiga_villager",
 	"criteria": {
 		"13_shepherd_taiga_villager": {
 			"trigger": "minecraft:inventory_changed",

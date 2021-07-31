@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/villager/swamp/15_weaponsmith_swamp_villager"
+    "parent": "custom:grummcollection/villager/swamp/15_weaponsmith_swamp_villager"
 }

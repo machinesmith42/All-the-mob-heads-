@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/jungle/parrot/gray_parrot"
+    "parent": "custom:grummcollection/jungle/parrot/gray_parrot"
 }

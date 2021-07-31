@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/rabbit/toast_rabbit",
+	"parent": "custom:grummcollection/rabbit/toast_rabbit",
 	"criteria": {
 		"black_rabbit": {
 			"trigger": "minecraft:inventory_changed",

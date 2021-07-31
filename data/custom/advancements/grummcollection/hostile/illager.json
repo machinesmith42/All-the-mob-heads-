@@ -3,12 +3,12 @@
 		"icon": {
 			"item": "minecraft:crossbow"
 		},
-		"title": "Illager",
+		"title": "Illagers",
 		"description": "Illager Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:collection/hostile",
+	"parent": "custom:grummcollection/hostile",
 	"criteria": {
 		"charging_vex": {
 			"trigger": "minecraft:inventory_changed",

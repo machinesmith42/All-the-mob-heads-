@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/zombie_villager/swamp/02_butcher_swamp_zombie_villager",
+	"parent": "custom:grummcollection/zombie_villager/swamp/02_butcher_swamp_zombie_villager",
 	"criteria": {
 		"03_cartographer_swamp_zombie_villager": {
 			"trigger": "minecraft:inventory_changed",

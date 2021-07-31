@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/nether/magma_cube",
+	"parent": "custom:grummcollection/nether/magma_cube",
 	"criteria": {
 		"ghast": {
 			"trigger": "minecraft:inventory_changed",

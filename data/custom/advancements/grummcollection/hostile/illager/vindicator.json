@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/hostile/illager",
+	"parent": "custom:grummcollection/hostile/illager",
 	"criteria": {
 		"vindicator": {
 			"trigger": "minecraft:inventory_changed",

@@ -4,7 +4,7 @@
 			"item": "minecraft:prismarine_shard"
 		},
 		"title": "Hostile Sea Mobs",
-		"description": "Sea Hostile Mobs Head Collection ",
+		"description": "Hostile Sea Mobs Head Collection ",
         "announce_to_chat": true,
         "frame": "goal"
 	},

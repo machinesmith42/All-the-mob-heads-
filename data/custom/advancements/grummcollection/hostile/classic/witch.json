@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/hostile/classic/cave_spider",
+	"parent": "custom:grummcollection/hostile/classic/cave_spider",
 	"criteria": {
 		"witch": {
 			"trigger": "minecraft:inventory_changed",

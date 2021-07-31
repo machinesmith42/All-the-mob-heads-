@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/villager/taiga/15_weaponsmith_taiga_villager"
+    "parent": "custom:grummcollection/villager/taiga/15_weaponsmith_taiga_villager"
 }

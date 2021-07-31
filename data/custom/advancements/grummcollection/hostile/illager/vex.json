@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/hostile/illager/evoker",
+	"parent": "custom:grummcollection/hostile/illager/evoker",
 	"criteria": {
 		"vex": {
 			"trigger": "minecraft:inventory_changed",

@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/savanna/08_leatherworker_savanna_villager",
+	"parent": "custom:grummcollection/villager/savanna/08_leatherworker_savanna_villager",
 	"criteria": {
 		"09_librarian_savanna_villager": {
 			"trigger": "minecraft:inventory_changed",

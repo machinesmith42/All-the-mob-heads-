@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/jungle/parrot/red_parrot",
+	"parent": "custom:grummcollection/jungle/parrot/red_parrot",
 	"criteria": {
 		"green_parrot": {
 			"trigger": "minecraft:inventory_changed",

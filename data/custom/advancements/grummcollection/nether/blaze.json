@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/nether/cold_strider",
+	"parent": "custom:grummcollection/nether/cold_strider",
 	"criteria": {
 		"blaze": {
 			"trigger": "minecraft:inventory_changed",

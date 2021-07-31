@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/desert/11_nitwit_desert_villager",
+	"parent": "custom:grummcollection/villager/desert/11_nitwit_desert_villager",
 	"criteria": {
 		"12_desert_villager": {
 			"trigger": "minecraft:inventory_changed",

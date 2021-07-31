@@ -3,12 +3,12 @@
 		"icon": {
 			"item": "minecraft:netherrack"
 		},
-		"title": "Nether",
+		"title": "Nether Mobs",
 		"description": "Nether Mombs Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:collection/root",
+	"parent": "custom:grummcollection/root",
 	"criteria": {
 		"blaze": {
 			"trigger": "minecraft:inventory_changed",

@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/savanna/03_cartographer_savanna_villager",
+	"parent": "custom:grummcollection/villager/savanna/03_cartographer_savanna_villager",
 	"criteria": {
 		"04_cleric_savanna_villager": {
 			"trigger": "minecraft:inventory_changed",

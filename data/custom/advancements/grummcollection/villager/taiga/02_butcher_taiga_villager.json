@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/taiga/01_armorer_taiga_villager",
+	"parent": "custom:grummcollection/villager/taiga/01_armorer_taiga_villager",
 	"criteria": {
 		"02_butcher_taiga_villager": {
 			"trigger": "minecraft:inventory_changed",

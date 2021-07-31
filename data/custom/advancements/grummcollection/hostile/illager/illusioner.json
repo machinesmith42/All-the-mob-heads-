@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/hostile/illager/ravager",
+	"parent": "custom:grummcollection/hostile/illager/ravager",
 	"criteria": {
 		"illusioner": {
 			"trigger": "minecraft:inventory_changed",

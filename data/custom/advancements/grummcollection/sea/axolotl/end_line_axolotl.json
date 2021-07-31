@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/sea/axolotl/axolotl_blue"
+    "parent": "custom:grummcollection/sea/axolotl/axolotl_blue"
 }

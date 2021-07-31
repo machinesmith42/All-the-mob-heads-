@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/passive/iron_golem",
+	"parent": "custom:grummcollection/passive/iron_golem",
 	"criteria": {
 		"snow_golem": {
 			"trigger": "minecraft:inventory_changed",

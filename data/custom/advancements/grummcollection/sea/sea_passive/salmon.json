@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/sea/sea_passive/cod",
+	"parent": "custom:grummcollection/sea/sea_passive/cod",
 	"criteria": {
 		"salmon": {
 			"trigger": "minecraft:inventory_changed",

@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/zombie_villager/taiga",
+	"parent": "custom:grummcollection/zombie_villager/taiga",
 	"criteria": {
 		"01_armorer_taiga_zombie_villager": {
 			"trigger": "minecraft:inventory_changed",

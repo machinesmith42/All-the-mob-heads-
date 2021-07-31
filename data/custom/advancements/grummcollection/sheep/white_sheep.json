@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/sheep/light_gray_sheep",
+	"parent": "custom:grummcollection/sheep/light_gray_sheep",
 	"criteria": {
 		"white_sheep": {
 			"trigger": "minecraft:inventory_changed",

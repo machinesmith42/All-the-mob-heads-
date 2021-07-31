@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/zombie_villager/taiga/06_fisherman_taiga_zombie_villager",
+	"parent": "custom:grummcollection/zombie_villager/taiga/06_fisherman_taiga_zombie_villager",
 	"criteria": {
 		"07_fletcher_taiga_zombie_villager": {
 			"trigger": "minecraft:inventory_changed",

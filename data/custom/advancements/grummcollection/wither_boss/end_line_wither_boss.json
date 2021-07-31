@@ -4,5 +4,5 @@
          "trigger":"minecraft:location"
       }
    },
-    "parent": "custom:collection/wither_boss/invulnerable_blue_wither"
+    "parent": "custom:grummcollection/wither_boss/invulnerable_blue_wither"
 }

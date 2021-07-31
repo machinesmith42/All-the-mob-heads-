@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/desert/04_cleric_desert_villager",
+	"parent": "grummcustom:collection/villager/desert/04_cleric_desert_villager",
 	"criteria": {
 		"05_farmer_desert_villager": {
 			"trigger": "minecraft:inventory_changed",

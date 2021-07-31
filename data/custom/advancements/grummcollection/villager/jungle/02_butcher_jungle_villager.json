@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/jungle/01_armorer_jungle_villager",
+	"parent": "custom:grummcollection/villager/jungle/01_armorer_jungle_villager",
 	"criteria": {
 		"02_butcher_jungle_villager": {
 			"trigger": "minecraft:inventory_changed",

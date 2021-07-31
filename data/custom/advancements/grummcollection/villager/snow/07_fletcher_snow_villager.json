@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/snow/06_fisherman_snow_villager",
+	"parent": "custom:grummcollection/villager/snow/06_fisherman_snow_villager",
 	"criteria": {
 		"07_fletcher_snow_villager": {
 			"trigger": "minecraft:inventory_changed",

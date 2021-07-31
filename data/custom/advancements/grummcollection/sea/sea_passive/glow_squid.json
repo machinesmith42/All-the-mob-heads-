@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/sea/sea_passive/squid",
+	"parent": "custom:grummcollection/sea/sea_passive/squid",
 	"criteria": {
 		"glow_squid": {
 			"trigger": "minecraft:inventory_changed",

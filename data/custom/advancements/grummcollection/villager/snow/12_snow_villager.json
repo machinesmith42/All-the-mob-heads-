@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/snow/11_nitwit_snow_villager",
+	"parent": "custom:grummcollection/villager/snow/11_nitwit_snow_villager",
 	"criteria": {
 		"12_snow_villager": {
 			"trigger": "minecraft:inventory_changed",

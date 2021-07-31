@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/nether/zoglin",
+	"parent": "custom:grummcollection/nether/zoglin",
 	"criteria": {
 		"hoglin": {
 			"trigger": "minecraft:inventory_changed",

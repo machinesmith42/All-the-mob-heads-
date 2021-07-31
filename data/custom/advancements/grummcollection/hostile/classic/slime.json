@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/hostile/classic/silverfish",
+	"parent": "custom:grummcollection/hostile/classic/silverfish",
 	"criteria": {
 		"slime": {
 			"trigger": "minecraft:inventory_changed",

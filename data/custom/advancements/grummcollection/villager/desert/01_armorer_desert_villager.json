@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/villager/desert",
+	"parent": "custom:grummcollection/villager/desert",
 	"criteria": {
 		"01_armorer_desert_villager": {
 			"trigger": "minecraft:inventory_changed",

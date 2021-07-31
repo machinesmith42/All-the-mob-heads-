@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/nether/piglin",
+	"parent": "custom:grummcollection/nether/piglin",
 	"criteria": {
 		"piglin_brute": {
 			"trigger": "minecraft:inventory_changed",
