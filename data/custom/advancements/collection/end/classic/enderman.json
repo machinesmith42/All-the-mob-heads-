@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:grummcollection/end/classic",
+	"parent": "custom:collection/end/classic",
 	"criteria": {
 		"enderman": {
 			"trigger": "minecraft:inventory_changed",

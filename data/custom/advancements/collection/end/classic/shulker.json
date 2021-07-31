@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:grummcollection/end/classic/endermite",
+	"parent": "custom:collection/end/classic/endermite",
 	"criteria": {
 		"shulker": {
 			"trigger": "minecraft:inventory_changed",
