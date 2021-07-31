@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:sand"
 		},
-		"title": "Desert Zombie Villager",
-		"description": "Zombie Villager Collection",
+		"title": "Desert Zombie Villagers",
+		"description": "Desert Zombie Villager Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:emerald"
 		},
-		"title": "Villager",
-		"description": "Villager Collection",
+		"title": "Villagers",
+		"description": "Villager Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

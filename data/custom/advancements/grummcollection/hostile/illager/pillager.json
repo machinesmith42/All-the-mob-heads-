@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/hostile/anti_villager/charging_vex",
+	"parent": "custom:collection/hostile/illager/charging_vex",
 	"criteria": {
 		"pillager": {
 			"trigger": "minecraft:inventory_changed",

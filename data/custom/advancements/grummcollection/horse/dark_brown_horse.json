@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:grummcollection/horse/black_horse",
+	"parent": "custom:collection/horse/black_horse",
 	"criteria": {
 		"dark_brown_horse": {
 			"trigger": "minecraft:inventory_changed",

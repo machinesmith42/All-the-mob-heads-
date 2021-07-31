@@ -4,11 +4,11 @@
 			"item": "minecraft:end_portal_frame"
 		},
 		"title": "End",
-		"description": "End Collection Head",
+		"description": "End Mobs Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:grummcollection/root",
+	"parent": "custom:collection/root",
 	"criteria": {
 		"enderman": {
 			"trigger": "minecraft:inventory_changed",

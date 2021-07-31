@@ -3,7 +3,7 @@
 		"icon": {
 			"item": "minecraft:shulker_shell"
 		},
-		"title": "Colored Shulker",
+		"title": "Colored Shulkers",
 		"description": "Colored Shulker Collection Head",
         "announce_to_chat": true,
         "frame": "goal"

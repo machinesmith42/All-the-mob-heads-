@@ -3,12 +3,12 @@
 		"icon": {
 			"item": "minecraft:ender_pearl"
 		},
-		"title": "Classic End",
-		"description": "Classic End Collection Head",
+		"title": "Classic End Mobs",
+		"description": "Classic End Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:grummcollection/end",
+	"parent": "custom:collection/end",
 	"criteria": {
 		"enderman": {
 			"trigger": "minecraft:inventory_changed",

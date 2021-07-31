@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:grummcollection/horse/creamy_horse",
+	"parent": "custom:collection/horse/creamy_horse",
 	"criteria": {
 		"skeleton_horse": {
 			"trigger": "minecraft:inventory_changed",

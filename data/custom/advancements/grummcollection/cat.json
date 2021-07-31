@@ -3,12 +3,12 @@
 		"icon": {
 			"item": "minecraft:cod"
 		},
-		"title": "Cat",
-		"description": "Cat Collection Head",
+		"title": "Cats",
+		"description": "Cat Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:grummcollection/root",
+	"parent": "custom:collection/root",
 	"criteria": {
 		"black_cat": {
 			"trigger": "minecraft:inventory_changed",

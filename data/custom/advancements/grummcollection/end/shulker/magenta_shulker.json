@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:grummcollection/end/shulker/pink_shulker",
+	"parent": "custom:collection/end/shulker/pink_shulker",
 	"criteria": {
 		"magenta_shulker": {
 			"trigger": "minecraft:inventory_changed",

@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:bamboo"
 		},
-		"title": "Panda",
-		"description": "Panda Collection Head",
+		"title": "Pandas",
+		"description": "Panda Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/hostile/anti_villager/vindicator",
+	"parent": "custom:collection/hostile/illager/vindicator",
 	"criteria": {
 		"evoker": {
 			"trigger": "minecraft:inventory_changed",

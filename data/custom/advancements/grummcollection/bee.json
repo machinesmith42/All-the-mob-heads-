@@ -3,12 +3,12 @@
 		"icon": {
 			"item": "minecraft:honeycomb"
 		},
-		"title": "Bee",
-		"description": "Bee Mobs Head",
+		"title": "Bees",
+		"description": "Bee Collection Head",
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:grummcollection/root",
+	"parent": "custom:collection/root",
 	"criteria": {
 		"pollinated_bee": {
 			"trigger": "minecraft:inventory_changed",

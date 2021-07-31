@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:feather"
 		},
-		"title": "Parrot",
-		"description": "Parrot Collection Head",
+		"title": "Parrots",
+		"description": "Parrot Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

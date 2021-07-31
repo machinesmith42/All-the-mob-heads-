@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:carrot"
 		},
-		"title": "Rabbit",
-		"description": "Rabbit Collection Head",
+		"title": "Rabbits",
+		"description": "Rabbit Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

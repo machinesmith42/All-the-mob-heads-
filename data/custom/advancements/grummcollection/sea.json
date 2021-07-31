@@ -4,7 +4,7 @@
 			"item": "minecraft:tube_coral"
 		},
 		"title": "Sea",
-		"description": "Sea Mobs Head",
+		"description": "Sea Mobs Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

@@ -3,7 +3,7 @@
 		"icon": {
 			"item": "minecraft:mutton"
 		},
-		"title": "Woles",
+		"title": "Wolves",
 		"description": "Wolf Head Collection",
         "announce_to_chat": true,
         "frame": "goal"

@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:mossy_cobblestone"
 		},
-		"title": "Jungle Zombie Villager",
-		"description": "Zombie Villager Collection",
+		"title": "Jungle Zombie Villagers",
+		"description": "Jungle Zombie Villager Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

@@ -4,11 +4,11 @@
 			"item": "minecraft:bone"
 		},
 		"title": "Canidae",
-		"description": "Canidae Collection Head",
+		"description": "Canidae Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:grummcollection/root",
+	"parent": "custom:collection/root",
 	"criteria": {
 		"black_collared_dog": {
 			"trigger": "minecraft:inventory_changed",

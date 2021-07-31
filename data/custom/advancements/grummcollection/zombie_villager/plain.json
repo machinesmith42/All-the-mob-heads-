@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:grass_block"
 		},
-		"title": "Plain Zombie Villager",
-		"description": "Zombie Villager Collection",
+		"title": "Plains Zombie Villager",
+		"description": "Plains Zombie Villager Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

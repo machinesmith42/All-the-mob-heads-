@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/hostile/anti_villager/pillager",
+	"parent": "custom:collection/hostile/illager/pillager",
 	"criteria": {
 		"ravager": {
 			"trigger": "minecraft:inventory_changed",
