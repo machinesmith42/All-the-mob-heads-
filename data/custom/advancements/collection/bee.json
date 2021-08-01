@@ -4,7 +4,7 @@
 			"item": "minecraft:honeycomb"
 		},
 		"title": "Bees",
-		"description": "Bee Collection Head",
+		"description": "Bee Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
 	},

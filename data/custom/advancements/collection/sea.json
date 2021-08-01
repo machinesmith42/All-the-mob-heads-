@@ -3,7 +3,7 @@
 		"icon": {
 			"item": "minecraft:tube_coral"
 		},
-		"title": "Sea",
+		"title": "Sea Mobs",
 		"description": "Sea Mobs Head Collection",
         "announce_to_chat": true,
         "frame": "goal"

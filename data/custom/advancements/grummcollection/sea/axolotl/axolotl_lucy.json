@@ -2,9 +2,9 @@
 	"display": {
 		"icon": {
 			"item": "minecraft:player_head",
-			"nbt": "{SkullOwner:{Id:[I;-26698124,-1386460973,-1987350320,-2008508346],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWMxMzhmNDAxYzY3ZmMyZTFlMzg3ZDljOTBhOTY5MTc3MmVlNDg2ZThkZGJmMmVkMzc1ZmM4MzQ4NzQ2ZjkzNiJ9fX0='}]}}}"
+			"nbt": "{SkullOwner:{Id:[I;-389664506,-1591980854,-2077671205,2126942818],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzdjOGViYTI0M2M3ODQxYjZjY2RhMzdiMmUzMTc5YmQyMjEwYzllNTQyN2I0MmEzZDVjY2Y4YjFmMTRjOTcwMyJ9fX0=\"}]}}}"
 		},
-		"title": "Lucy Axolotl",
+		"title": "Grumm Lucy Axolotl",
 		"description": "1% + 1% per looting",
         "frame": "task",
         "announce_to_chat": false,
@@ -12,13 +12,13 @@
 	},
 	"parent": "custom:grummcollection/sea/axolotl",
 	"criteria": {
-		"drowned": {
+		"axolotl_lucy": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
 					{
 						"item": "minecraft:player_head",
-						"nbt": "{SkullOwner:{Id:[I;-26698124,-1386460973,-1987350320,-2008508346],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWMxMzhmNDAxYzY3ZmMyZTFlMzg3ZDljOTBhOTY5MTc3MmVlNDg2ZThkZGJmMmVkMzc1ZmM4MzQ4NzQ2ZjkzNiJ9fX0='}]}}}"
+						"nbt": "{SkullOwner:{Id:[I;-389664506,-1591980854,-2077671205,2126942818],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzdjOGViYTI0M2M3ODQxYjZjY2RhMzdiMmUzMTc5YmQyMjEwYzllNTQyN2I0MmEzZDVjY2Y4YjFmMTRjOTcwMyJ9fX0=\"}]}}}"
 					}
 				]
 			}

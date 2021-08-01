@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:name_tag"
         },
-        "title": "Head collection",
+        "title": "Grumm Head collection",
         "description": "Collect Them All",
         "background": "minecraft:textures/block/deepslate_tiles.png",
         "show_toast": true,
@@ -11,13 +11,13 @@
         "frame": "challenge"
     },
     "criteria": {
-		"pollinated_bee": {
+      "pollinated_bee": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
 					{
 						"item": "minecraft:player_head",
-						"nbt": "{SkullOwner:{Id:[I;2003235278,1405764951,-2132605639,-755508983],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjcyN2QwYWIwM2Y1Y2QwMjJmODcwNWQzZjdmMTMzY2E0OTIwZWFlOGUxZTQ3YjUwNzQ0MzNhMTM3ZTY5MWU0ZSJ9fX0='}]}}}"
+						"nbt": "{SkullOwner:{Id:[I;1005471344,2113621865,-1222542352,-541282861],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDhlNTA4Zjg2MTg0OGNkNzlhM2FhNDMyNWM1NDcwNjQxNWRlMjQ2NGJlMDMzZGNlYzhmNTMxZDBhMWE3ZDMxNCJ9fX0=\"}]}}}"
 					}
 				]
 			}
@@ -28,7 +28,7 @@
 				"items": [
 					{
 						"item": "minecraft:player_head",
-						"nbt": "{SkullOwner:{Id:[I;-1589074262,619334070,-1296151011,487786327],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTZiNzRlMDUyYjc0Mjg4Nzk5YmE2ZDlmMzVjNWQwMjIxY2Y4YjA0MzMxNTQ3ZWMyZjY4ZDczNTk3YWUyYzliIn19fQ=='}]}}}"
+						"nbt": "{SkullOwner:{Id:[I;-1959600960,-727562708,-1420851203,2003279623],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDhlNTA4Zjg2MTg0OGNkNzlhM2FhNDMyNWM1NDcwNjQxNWRlMjQ2NGJlMDMzZGNlYzhmNTMxZDBhMWE3ZDMxNCJ9fX0=\"}]}}}"
 					}
 				]
 			}
@@ -39,7 +39,7 @@
 				"items": [
 					{
 						"item": "minecraft:player_head",
-						"nbt": "{SkullOwner:{Id:[I;1999906402,-2005908390,-2036338514,-247436483],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTlhYzE2ZjI5NmI0NjFkMDVlYTA3ODVkNDc3MDMzZTUyNzM1OGI0ZjMwYzI2NmFhMDJmMDIwMTU3ZmZjYTczNiJ9fX0='}]}}}"
+						"nbt": "{SkullOwner:{Id:[I;1987515452,375669316,-1575297536,1538080759],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjU3MWMyMzcwMDg4YmE4Y2JkYWZjYjE3MjUzNmE3NjA3YzcyOWQ1ZjY4NDY2ZjBmZTc3N2QzZmYzODE2YTM4NyJ9fX0=\"}]}}}"
 					}
 				]
 			}
@@ -50,7 +50,7 @@
 				"items": [
 					{
 						"item": "minecraft:player_head",
-						"nbt": "{SkullOwner:{Id:[I;352237603,-1093908583,-1451367127,286134688],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTQwMDIyM2YxZmE1NDc0MWQ0MjFkN2U4MDQ2NDA5ZDVmM2UxNWM3ZjQzNjRiMWI3Mzk5NDAyMDhmM2I2ODZkNCJ9fX0='}]}}}"
+						"nbt": "{SkullOwner:{Id:[I;-1959600960,-727562708,-1420851203,2003279623],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDhlNTA4Zjg2MTg0OGNkNzlhM2FhNDMyNWM1NDcwNjQxNWRlMjQ2NGJlMDMzZGNlYzhmNTMxZDBhMWE3ZDMxNCJ9fX0=\"}]}}}"
 					}
 				]
 			}
@@ -1254,13 +1254,13 @@
 				]
 			}
 		},
-		"bat": {
+    "bat": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
 					{
 						"item": "minecraft:player_head",
-						"nbt": "{SkullOwner:{Id:[I;-807732989,416238226,-1393365080,1651306674],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWU5OWRlZWY5MTlkYjY2YWMyYmQyOGQ2MzAyNzU2Y2NkNTdjN2Y4YjEyYjlkY2E4ZjQxYzNlMGEwNGFjMWNjIn19fQ=='}]}}}"
+						"nbt": "{SkullOwner:{Id:[I;-786743171,-1028700414,-1465345531,-2097743418],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYThjNTg1NjEzNWRkZGMzZTE3ZWVkOTEzNWYyOTRjZmUzN2FlZmE0MTYyMTRmNzcwNGJjYmE1NTA2ZWJiMzU3ZiJ9fX0=\"}]}}}"
 					}
 				]
 			}
@@ -1595,13 +1595,13 @@
 				]
 			}
 		},
-		"axolotl_lucy": {
+    "axolotl_lucy": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
 					{
 						"item": "minecraft:player_head",
-						"nbt": "{SkullOwner:{Id:[I;-26698124,-1386460973,-1987350320,-2008508346],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWMxMzhmNDAxYzY3ZmMyZTFlMzg3ZDljOTBhOTY5MTc3MmVlNDg2ZThkZGJmMmVkMzc1ZmM4MzQ4NzQ2ZjkzNiJ9fX0='}]}}}"
+						"nbt": "{SkullOwner:{Id:[I;-389664506,-1591980854,-2077671205,2126942818],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzdjOGViYTI0M2M3ODQxYjZjY2RhMzdiMmUzMTc5YmQyMjEwYzllNTQyN2I0MmEzZDVjY2Y4YjFmMTRjOTcwMyJ9fX0=\"}]}}}"
 					}
 				]
 			}
@@ -1612,7 +1612,7 @@
 				"items": [
 					{
 						"item": "minecraft:player_head",
-						"nbt": "{SkullOwner:{Id:[I;578977714,-572176804,-1128480455,-1859535446],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQ3ZWZlMDIwMTJjZjMxYWUyNzA4ZTdkN2RmMDc5NzI2NTc1YzdlZTg1MDQzMjgxNzVmZTU0NDcwODE4N2RjZSJ9fX0='}]}}}"
+						"nbt": "{SkullOwner:{Id:[I;1505211790,759316497,-1894674075,812752038],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzk2YTQzZGM2ZTg5ZjYxNzA5MThiMjdiNzEzMDI4Y2U5NTI3ZWQ0MGM3YWJhN2I1NTZhYmVmM2Q0YmU3NDYyZiJ9fX0=\"}]}}}"
 					}
 				]
 			}
@@ -1623,7 +1623,7 @@
 				"items": [
 					{
 						"item": "minecraft:player_head",
-						"nbt": "{SkullOwner:{Id:[I;-1729775263,-1247460562,-1089713984,-2035345424],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2Y4MGNjMTQ5MmU0NDY2OGNjY2RiNDAxNzhjM2E2Njg5ZThkZmMwZDIzNGU5ODU1M2ZiN2RlYmMyNmZjYWVhYyJ9fX0='}]}}}"
+						"nbt": "{SkullOwner:{Id:[I;-1726848695,819020096,-1348039594,1750954291],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFkODYwMDgxMGExMWI2YzUzMWI0MzcwM2M4ZTg5NWMzMmVkNzc0NWNjYWMzNjYyNjIwMGM0NjJkNzY3YzUxYSJ9fX0=\"}]}}}"
 					}
 				]
 			}
@@ -1634,7 +1634,7 @@
 				"items": [
 					{
 						"item": "minecraft:player_head",
-						"nbt": "{SkullOwner:{Id:[I;-1260185302,-331069894,-1610228849,1834233390],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTFjMmQwYzNiOTZhZDQ1YjQ2NjM4OGUwMjhiMjQ3YWFmZTM2YjI2YjEyYzQxMWVjYjcyZTliNTBlYTIxZTUyYyJ9fX0='}]}}}"
+						"nbt": "{SkullOwner:{Id:[I;1987515452,375669316,-1575297536,1538080759],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTU4ZjUxNzM5NGRkYjU1MzdiYjlhZjlkMzIyYjM4NGJhOGRlZmM0MzZjNjkzODE5N2VmNmU3NWU3NTVhYTI4NiJ9fX0=\"}]}}}"
 					}
 				]
 			}
@@ -1645,7 +1645,7 @@
 				"items": [
 					{
 						"item": "minecraft:player_head",
-						"nbt": "{SkullOwner:{Id:[I;9876581,1862421429,-2108920822,-874732446],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTljOTJlNWJmMzk0ZTY0NWVkN2Y4NDEyMmFlZmIyYjc2NzJlMmFjMDU2NzIyY2QxYmFkMjFmMWYxOTk2OWQzOSJ9fX0='}]}}}"
+						"nbt": "{SkullOwner:{Id:[I;593049234,474040991,-1761281464,-1070848382],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWY2OTM4YTg1MjQ2MzcwNTM2ZjE5ZThkZmU3NzY0YzU1OTQ2ODg4NDVkODJkMmQ5NjRjYzJmNGIyMjNhMGNhYSJ9fX0=\"}]}}}"
 					}
 				]
 			}

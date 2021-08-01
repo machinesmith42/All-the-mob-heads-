@@ -2,9 +2,9 @@
 	"display": {
 		"icon": {
 			"item": "minecraft:player_head",
-			"nbt": "{SkullOwner:{Id:[I;9876581,1862421429,-2108920822,-874732446],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTljOTJlNWJmMzk0ZTY0NWVkN2Y4NDEyMmFlZmIyYjc2NzJlMmFjMDU2NzIyY2QxYmFkMjFmMWYxOTk2OWQzOSJ9fX0='}]}}}"
+			"nbt": "{SkullOwner:{Id:[I;593049234,474040991,-1761281464,-1070848382],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWY2OTM4YTg1MjQ2MzcwNTM2ZjE5ZThkZmU3NzY0YzU1OTQ2ODg4NDVkODJkMmQ5NjRjYzJmNGIyMjNhMGNhYSJ9fX0=\"}]}}}"
 		},
-		"title": "Blue Axolotl",
+		"title": "Grumm Blue Axolotl",
 		"description": "1% + 1% per looting",
         "frame": "task",
         "announce_to_chat": false,
@@ -12,14 +12,13 @@
 	},
 	"parent": "custom:grummcollection/sea/axolotl/axolotl_cyan",
 	"criteria": {
-		"drowned": {
+		"axolotl_blue": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
 					{
 						"item": "minecraft:player_head",
-						"nbt": "{SkullOwner:{Id:[I;9876581,1862421429,-2108920822,-874732446],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTljOTJlNWJmMzk0ZTY0NWVkN2Y4NDEyMmFlZmIyYjc2NzJlMmFjMDU2NzIyY2QxYmFkMjFmMWYxOTk2OWQzOSJ9fX0='}]}}}"
-					}
+						"nbt": "{SkullOwner:{Id:[I;593049234,474040991,-1761281464,-1070848382],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWY2OTM4YTg1MjQ2MzcwNTM2ZjE5ZThkZmU3NzY0YzU1OTQ2ODg4NDVkODJkMmQ5NjRjYzJmNGIyMjNhMGNhYSJ9fX0=\"}]}}}"
 				]
 			}
 		}

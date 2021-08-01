@@ -3,7 +3,7 @@
 		"icon": {
 			"item": "minecraft:end_portal_frame"
 		},
-		"title": "End",
+		"title": "End Mobs",
 		"description": "End Mobs Head Collection",
         "announce_to_chat": true,
         "frame": "goal"
