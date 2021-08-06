@@ -1,0 +1,27 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;1392291145,-1493284116,-1941431805,-607787226],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTcxZWNkMTJiYTgxZGE0MzE1N2YwOGU2NTEyZjBmOTNlOWM1N2IzMmExZjVhYTlhODRjMDE0YzUzODM0ODJmYSJ9fX0=\"}]}}}"
+		},
+		"title": "Cyan Collared Black Cat",
+		"description": "10% + 2% per looting",
+        "frame": "task",
+        "announce_to_chat": false,
+        "show_toast": true
+	},
+	"parent": "custom:collection/cat/black_cat/blue_collared_black_cat",
+	"criteria": {
+		"cyan_collared_black_cat": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:player_head",
+						"nbt": "{SkullOwner:{Id:[I;1392291145,-1493284116,-1941431805,-607787226],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTcxZWNkMTJiYTgxZGE0MzE1N2YwOGU2NTEyZjBmOTNlOWM1N2IzMmExZjVhYTlhODRjMDE0YzUzODM0ODJmYSJ9fX0=\"}]}}}"
+					}
+				]
+			}
+		}
+	}
+}
