@@ -11,7 +11,7 @@
         "frame": "challenge"
     },
     "criteria": {
-      "pollinated_bee": {
+    "pollinated_bee": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
