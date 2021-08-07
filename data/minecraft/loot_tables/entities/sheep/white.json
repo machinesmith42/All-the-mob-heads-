@@ -52,10 +52,6 @@
         {
           "type": "minecraft:loot_table",
           "name": "minecraft:entities/sheep/jeb_sheep"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "name": "minecraft:entities/ee/me_controller"
         }
       ]
     }

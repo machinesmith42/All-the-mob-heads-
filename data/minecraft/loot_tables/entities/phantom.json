@@ -35,15 +35,6 @@
           "looting_multiplier": 0.01
         }
       ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "name": "minecraft:entities/ee/darcodo"
-        }
-      ]
     }
   ]
 }
