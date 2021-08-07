@@ -8,7 +8,7 @@
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:collection/sea",
+	"parent": "custom:grummcollection/sea",
 	"criteria": {
 		"drowned": {
 			"trigger": "minecraft:inventory_changed",
