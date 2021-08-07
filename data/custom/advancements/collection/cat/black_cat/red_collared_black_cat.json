@@ -10,7 +10,7 @@
         "announce_to_chat": false,
         "show_toast": true
 	},
-	"parent": "custom:collection/cat/black_cat/black_cat",
+	"parent": "custom:collection/cat/black_cat/uncollared_black_cat",
 	"criteria": {
 		"red_collared_dog": {
 			"trigger": "minecraft:inventory_changed",

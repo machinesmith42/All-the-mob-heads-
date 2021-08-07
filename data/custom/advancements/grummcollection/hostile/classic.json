@@ -8,7 +8,7 @@
         "announce_to_chat": true,
         "frame": "goal"
 	},
-	"parent": "custom:collection/hostile",
+	"parent": "custom:grummcollection/hostile",
 	"criteria": {
 		"cave_spider": {
 			"trigger": "minecraft:inventory_changed",
