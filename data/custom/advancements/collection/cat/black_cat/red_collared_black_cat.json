@@ -12,7 +12,7 @@
 	},
 	"parent": "custom:collection/cat/black_cat/uncollared_black_cat",
 	"criteria": {
-		"red_collared_dog": {
+		"red_collared_black_cat": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [

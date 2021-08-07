@@ -162,7 +162,7 @@
 				]
 			}
 		},
-		"red_collared_dog": {
+		"red_collared_black": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
