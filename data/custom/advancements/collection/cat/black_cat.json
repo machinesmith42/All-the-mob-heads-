@@ -24,8 +24,8 @@
 		},
 		"black_collared_black_cat": {
 			"trigger": "minecraft:inventory_changed",
-				"conditions": {
-					"items": [
+			"conditions": {
+				"items": [
 					{
 						"item": "minecraft:player_head",
 						"nbt": "{SkullOwner:{Id:[I;303548759,321341417,-1088074753,587213958],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjFiNTI4ZDU3MjAxMzQ0ZWI1ZmFhOGQ1NjUxZmJhMzIwYzZkZGJlNGRjYTg1MjdmMzhmMzc4NmE2ODllOTVjNyJ9fX0=\"}]}}}"
@@ -161,6 +161,7 @@
 					{
 						"item": "minecraft:player_head",
 						"nbt": "{SkullOwner:{Id:[I;-426508479,-1301004047,-1139003806,-288930779],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTY2YTY4YzMwOTU3OGM4YmI2MjVlYzM5MzFmOTdhNWFjNDJiNDEyMGNjZjFmZTQwYTczOTFlODhiMGI5ZTgxMSJ9fX0=\"}]}}}"
+					}
 				]
 			}
 		},
