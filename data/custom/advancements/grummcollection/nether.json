@@ -20,7 +20,7 @@
 					}
 				]
 			}
-		}
+		},
 		"cold_strider": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
