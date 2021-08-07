@@ -12,7 +12,7 @@
 	},
 	"parent": "custom:collection/sea/axolotl",
 	"criteria": {
-		"drowned": {
+		"axolotl_cyan": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [

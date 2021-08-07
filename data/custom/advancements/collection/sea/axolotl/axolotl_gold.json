@@ -12,7 +12,7 @@
 	},
 	"parent": "custom:collection/sea/axolotl/axolotl_wild",
 	"criteria": {
-		"drowned": {
+		"axolotl_gold": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
