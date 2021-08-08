@@ -1,0 +1,8 @@
+{
+   "criteria":{
+      "end":{
+         "trigger":"minecraft:location"
+      }
+   },
+    "parent": "custom:collection/cat/british_shorthair_cat/white_collared_british_shorthair_cat"
+}

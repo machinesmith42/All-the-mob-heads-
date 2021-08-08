@@ -1,0 +1,27 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;1884483578,1441877777,-1543347390,-1034490146],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDA5YmEyYWZjYjRiODA4OTA1MDQ0ZTgyMjJlNWM1YzAwMDhhMTY4OTY4OTJlYzA5YmIwYTcyZTFmNmFiYjRjMCJ9fX0=\"}]}}}"
+		},
+		"title": "Gray Collared British Shorthair Cat",
+		"description": "10% + 2% per looting",
+        "frame": "task",
+        "announce_to_chat": false,
+        "show_toast": true
+	},
+	"parent": "custom:collection/cat/british_shorthair_cat/black_collared_british_shorthair_cat",
+	"criteria": {
+		"gray_collared_british_shorthair_cat": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:player_head",
+						"nbt": "{SkullOwner:{Id:[I;1884483578,1441877777,-1543347390,-1034490146],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDA5YmEyYWZjYjRiODA4OTA1MDQ0ZTgyMjJlNWM1YzAwMDhhMTY4OTY4OTJlYzA5YmIwYTcyZTFmNmFiYjRjMCJ9fX0=\"}]}}}"
+					}
+				]
+			}
+		}
+	}
+}
